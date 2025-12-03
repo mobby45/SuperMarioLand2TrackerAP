@@ -6,7 +6,7 @@
             {
                 "name": "Midway Bell",
                 "access_rules": ["$has_pipe_right, $has_pipe_left", "$has_castle_midway"],
-                "visibility_rules": ["set-shuffle-midways, set-mario-castle-midway"],
+                "visibility_rules": ["set-mario-castle-midway"],
                 "sections": [
                     {
                         "name": "Midway Bell",

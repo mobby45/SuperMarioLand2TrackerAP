@@ -4,7 +4,6 @@
         "children": [
             {
                 "name": "Midway Bell",
-                "visibility_rules": ["set-shuffle-midways"],
                 "sections": [
                     {
                         "name": "Midway Bell",
@@ -88,7 +87,6 @@
             {
                 "name": "Midway Bell",
                 "access_rules": ["waterphysics, $no_scroll|turtlezone2", "$has_midway|turtlezone2"],
-                "visibility_rules": ["set-shuffle-midways"],
                 "sections": [
                     {
                         "name": "Midway Bell",
@@ -197,7 +195,6 @@
         "children": [
             {
                 "name": "Midway Bell",
-                "visibility_rules": ["set-shuffle-midways"],
                 "sections": [
                     {
                         "name": "Midway Bell",

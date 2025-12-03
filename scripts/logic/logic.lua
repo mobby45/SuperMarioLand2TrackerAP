@@ -438,7 +438,14 @@ function mariozone3_coins()
     if has("carrot") then
         reachableSpikeCoins = 15
     else
-        reachableSpikeCoins = math.min(3, Tracker:ProviderCountForCode("set-mz3-claws") + has("mushroom") + has("fireflower")) * 5
+        local items = Tracker:ProviderCountForCode("set-mz3-claws")
+        if has("mushroom") then
+            items = items + 1
+        end
+        if has("fireflower") then
+            items = items + 1
+        end
+        reachableSpikeCoins = math.min(3, items) * 5
     end
     reachableCoins = reachableCoins + reachableSpikeCoins
     if not autoScroll then

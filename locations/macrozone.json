@@ -5,7 +5,6 @@
             {
                 "name": "Midway Bell",
                 "access_rules": ["$has_pipe_down", "$has_midway|macrozone1"],
-                "visibility_rules": ["set-shuffle-midways"],
                 "sections": [
                     {
                         "name": "Midway Bell",
@@ -121,7 +120,6 @@
             {
                 "name": "Midway Bell",
                 "access_rules": ["$has_pipe_down, waterphysics", "$has_midway|macrozone2"],
-                "visibility_rules": ["set-shuffle-midways"],
                 "sections": [
                     {
                         "name": "Midway Bell",
@@ -206,7 +204,6 @@
             {
                 "name": "Midway Bell",
                 "access_rules": ["@Macro Zone 3/Normal Exit"],
-                "visibility_rules": ["set-shuffle-midways"],
                 "sections": [
                     {
                         "name": "Midway Bell",
@@ -290,7 +287,6 @@
         "children": [
             {
                 "name": "Midway Bell",
-                "visibility_rules": ["set-shuffle-midways"],
                 "sections": [
                     {
                         "name": "Midway Bell",

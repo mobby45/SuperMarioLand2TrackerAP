@@ -5,7 +5,6 @@
         "children": [
             {
                 "name": "Midway Bell",
-                "visibility_rules": ["set-shuffle-midways"],
                 "sections": [
                     {
                         "name": "Midway Bell",
@@ -108,7 +107,6 @@
             {
                 "name": "Midway Bell",
                 "access_rules": ["spacephysics", "$has_midway|spacezone2", "$can_take_hit"],
-                "visibility_rules": ["set-shuffle-midways"],
                 "sections": [
                     {
                         "name": "Midway Bell",

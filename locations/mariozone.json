@@ -5,7 +5,6 @@
             {
                 "name": "Midway Bell",
                 "access_rules": ["[$can_take_hit], $has_pipe_right", "$has_midway|mariozone1"],
-                "visibility_rules": ["set-shuffle-midways"],
                 "sections": [
                     {
                         "name": "Midway Bell",
@@ -95,7 +94,6 @@
         "children": [
             {
                 "name": "Midway Bell",
-                "visibility_rules": ["set-shuffle-midways"],
                 "sections": [
                     {
                         "name": "Midway Bell",
@@ -177,7 +175,6 @@
         "children": [
             {
                 "name": "Midway Bell",
-                "visibility_rules": ["set-shuffle-midways"],
                 "sections": [
                     {
                         "name": "Midway Bell",
@@ -259,7 +256,6 @@
         "children": [
             {
                 "name": "Midway Bell",
-                "visibility_rules": ["set-shuffle-midways"],
                 "sections": [
                     {
                         "name": "Midway Bell",
