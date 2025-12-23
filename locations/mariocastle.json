@@ -25,7 +25,7 @@
             },
             {
                 "name": "Goal",
-                "access_rules": ["$has_pipe_right, $has_pipe_left", "$has_castle_midway"],
+                "access_rules": ["$has_pipe_right, $has_pipe_left", "$has_pipe_right, $has_castle_midway"],
                 "sections": [
                     {
                         "name": "Wario",
