@@ -2,6 +2,12 @@
 	"versions": [
 		{
 			"package_version": "0.8.1",
+			"download_url": "https://github.com/mobby45/SuperMarioLand2TrackerAP/releases/download/0.8.2/SuperMarioLand2TrackerAP.zip",
+			"sha256": "2faf58933a921bede94e6bb5eabd7590fa042f7428f17cb6eaf157735c62ebe7",
+			"changelog": ["Logic bug fixed in Wario Castle"]
+		},
+		{
+			"package_version": "0.8.1",
 			"download_url": "https://github.com/mobby45/SuperMarioLand2TrackerAP/releases/download/0.8.1/SuperMarioLand2TrackerAP.zip",
 			"sha256": "97137aa6d2313a32cc876dc2d4ab5112e05d56cef17840a6d053494ff2240b11",
 			"changelog": ["This version fixes different bugs"]
